@@ -1,7 +1,7 @@
 
 
 body {
-  background: url('/assets/Background.jpg');
+  background-image: url('/assets/Background.jpg');
   font-family: Arial;
   font-size: 120%;
 }
