@@ -1,7 +1,11 @@
 # Star-Wars-Quiz
 
+A quick Star Wars Quiz app to test your knowledge on star wars.
 
 
 
-[Website](https://harrison-oliner.github.io/Star-Wars-Quiz/)
+
+![alttext](StarWarsQuiz.jpg)
+
+[Star Wars Quiz Website](https://harrison-oliner.github.io/Star-Wars-Quiz/)
 
